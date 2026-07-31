@@ -13,16 +13,16 @@
 ---
 
 ## About
-
-MSc Computer Engineering graduate with a focus on backend development - building clean, layered APIs and systems that are reliable from day one. Comfortable operating anywhere from hardware-level Verilog to production-ready REST services in C# and Python.
+MSc Computer Engineering graduate with a focus on backend development - building clean, layered APIs and systems that are reliable from day one. Comfortable operating anywhere from hardware-level Verilog to production-ready REST services in C#, Java, and Python.
 
 Particularly drawn to SaaS product development, where backend architecture directly shapes the user experience and scalability of the product. Looking to contribute to a team that ships real software and cares about getting the foundations right.
 
 ---
 
 ## Tech Stack
-
 <p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -39,6 +39,9 @@ Particularly drawn to SaaS product development, where backend architecture direc
 
 ## Projects
 
+### [GymCore API](https://github.com/RokoPecotic/gymcore-api) - Java / Spring Boot
+B2B SaaS multi-tenant platform for gym franchise management. JWT authentication, full CRUD (Location/Zone/Equipment), check-in/occupancy/heatmap system, analytics engine, and 43 automated tests (unit + integration with Testcontainers) with CI/CD via GitHub Actions.
+
 ### [Audio Fingerprint Engine](https://github.com/RokoPecotic/Audio-Fingeprint-Engine) - C++
 Identifies audio tracks via spectrogram analysis and hash-based fingerprint matching. Custom architecture with full unit test coverage.
 
@@ -54,13 +57,13 @@ PyQt5 GUI app fetching live weather from the OpenWeather API with real-time disp
 ---
 
 ## Education
-
 **BSc - Electrical Engineering & IT** &nbsp;|&nbsp; FESB, Split &nbsp;|&nbsp; 2020 - 2023
 > Thesis: Exoplanet detection using transit method
 
 **MSc - Electronics & Computer Engineering** &nbsp;|&nbsp; FESB, Split &nbsp;|&nbsp; 2023 - 2025
 > Thesis: Knee diagnostic system using a smart knee brace
-> Dean's commendation - magna cum laude
+>> Dean's commendation - magna cum laude
+>>> Erasmus exchange program at Sapienza Università di Roma
 
 **NVIDIA - Fundamentals of Deep Learning** &nbsp;|&nbsp; Certificate
 
